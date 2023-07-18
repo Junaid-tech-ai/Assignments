@@ -2,6 +2,7 @@
 # the rectangle is greater than its perimeter. For example, the area of the rectangle with
 # length = 5 and breadth = 4 is greater than its perimeter.
 
+
 rectangle_length=int(input('Enter the length of rectangle in meter: \n'))
 rectangle_breath=int(input('Enter the breath of rectangle in meter: \n'))
 Area=rectangle_length*rectangle_breath
