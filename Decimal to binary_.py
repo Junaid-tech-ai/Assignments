@@ -3,10 +3,15 @@
 
 num=int(input("Enter the number: \n"))
 l=list()
-while num !=0:
-    num=num//2
-    print("n=", num)
-    r=num%2
+while num >0:
+
+    r = num % 2
     print("r =",r)
     l.append(r)
+    l.reverse()
+    num = num // 2
+    print("n=", num)
 print(l)
+
+
+
