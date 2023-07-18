@@ -1,6 +1,7 @@
 # The length & breadth of a rectangle are input through the keyboard. Write a program to
 # calculate the area & perimeter of the rectangle.
 
+
 length=int(input('Enter the length of rectangular: \n '))
 breath=int(input('Enter the breath of rectangular: \n '))
 
