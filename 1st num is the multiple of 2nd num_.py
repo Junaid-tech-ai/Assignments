@@ -3,6 +3,7 @@
 num1=int(input("Enter The First Number: \n"))
 num2=int(input("Enter The 2nd Number: \n"))
 
+
 if num1 % num2==0:
     print(num1,"is the multiple of",num2)
 else:
