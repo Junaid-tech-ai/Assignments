@@ -25,6 +25,7 @@ for i in range(1,11):
     print()
 
 
+
 n=10
 for i in range(1,11):
     for j in range(i):
