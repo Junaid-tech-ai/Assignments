@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f4113c8-af90-4d86-b019-80ffae660355" name="Changes" comment="Initial Committed" />
+    <list default="true" id="5f4113c8-af90-4d86-b019-80ffae660355" name="Changes" comment="Program to find he binary equivalent of the entered number.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decimal to binary_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decimal to binary_.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -90,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1687793785650</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial Committed">
+      <option name="closed" value="true" />
+      <created>1687794126009</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687794126009</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Program to find he binary equivalent of the entered number.">
+      <option name="closed" value="true" />
+      <created>1689671339535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689671339535</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,7 +128,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -120,6 +144,7 @@
     <MESSAGE value="deleted file" />
     <MESSAGE value="Committed" />
     <MESSAGE value="Initial Committed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Committed" />
+    <MESSAGE value="Program to find he binary equivalent of the entered number." />
+    <option name="LAST_COMMIT_MESSAGE" value="Program to find he binary equivalent of the entered number." />
   </component>
 </project>
